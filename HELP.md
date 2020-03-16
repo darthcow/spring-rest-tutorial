@@ -1,3 +1,8 @@
+# Read Me First
+The following was discovered as part of building this project:
+
+* The original package name 'com.darthcow.projects.spring-rest-tutorial' is invalid and this project uses 'com.darthcow.projects.springresttutorial' instead.
+
 # Getting Started
 
 ### Reference Documentation
