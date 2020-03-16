@@ -1,4 +1,4 @@
-package com.darthcow.projects.springresttutorial;
+package com.darthcow.projects.spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
