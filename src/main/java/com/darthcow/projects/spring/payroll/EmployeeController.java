@@ -10,8 +10,9 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
-@RestController
+@RestController // Indicates the Type returned by each method will be the response body instead of using a template
 public class EmployeeController {
+    // Injected by constructor
     private final EmployeeRepository repository;
 
     public EmployeeController(EmployeeRepository repository) {
